@@ -3,4 +3,5 @@ Hmm, these Chiquitoos are clever. We've intercepted a program that takes a passw
 
 ## Steps
 1. Echo the string “password” and pipe the result into the program
+
 ![step-by-step commands](/assets/screenshots/hq-07-PasswordPickle.png)
