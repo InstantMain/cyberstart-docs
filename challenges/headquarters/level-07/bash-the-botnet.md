@@ -1,4 +1,4 @@
-# Challenge
+# Bash the Botnet
 We have managed to gain access to a server used by one of The Chiquittoos' side businesses. We think the gang use it to connect to their botnet, which we want to take down. The botnet is of course password protected but, if you can find the password we can log in and disable it!
 
 - Username: [given username] 
