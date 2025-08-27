@@ -10,6 +10,6 @@ We have managed to gain access to a server used by one of The Chiquittoos' side 
 1. Launch the virtual box and open terminal
 1. Connect to the assigned SSH account
     - Use *ssh* command
-1. cat .bash_history in the home directory
+1. cat *.bash_history* in the home directory
 
 ![step-by-step commands](/assets/screenshots/hq-07-BashTheBotnet.png)
