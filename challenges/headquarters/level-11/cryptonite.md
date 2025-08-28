@@ -5,7 +5,7 @@ See if you can use it to get access to the server and look for any files that mi
 
 ## Steps
 1. Enter in *cryptonite -h* and click *Enter* to show its arguments
-    - *cryptonite -n* can be used to ignore the command and used for command injection
+    - *cryptonite -n* can be used to ignore the command and for command injection
 
 ![see valid arguments](/assets/screenshots/hq-11-Cryptonite/step-1.png)
 
