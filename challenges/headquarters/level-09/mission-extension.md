@@ -3,6 +3,11 @@ Agent, those Spetzners are really trying to test our patience! We have someone o
 
 We know there's a Jpeg in there somewhere with an image of the particular EMP they're trying to steal, but it's taking the team forever to find it. Can you think of a quicker way?
 
+- Username: *[given username]*
+- Password: *[given password]*
+- IP Address: *[given ip]*
+- Port: *[given port]*
+
 ## Steps
 1. Log into the SSH account
     - Use *ssh* command
