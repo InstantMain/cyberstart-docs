@@ -6,6 +6,8 @@ We have managed to gain access to a server used by one of The Chiquittoos' side 
 - IP Address: *[given ip]*
 - Port: *[given port]*
 
+**Tip:** The flag is in the same file as the password.
+
 ## Steps
 1. Launch the virtual box and open terminal
 1. Connect to the assigned SSH account

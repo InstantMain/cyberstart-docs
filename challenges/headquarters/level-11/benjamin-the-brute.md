@@ -3,6 +3,8 @@ Agent 707, one of the gang, Benjamin Goldleaf, was yesterday overheard by our in
 
 With a bit of detective work we've managed to find the message board and get Bens user details. We want to post a fake message using the API to try and draw one of the more senior gang members out, but we can't get it to work. See if you can.
 
+**Tip:** Successfully post a notice on the board to get the flag.
+
 ## Steps
 1. Write Python code
 

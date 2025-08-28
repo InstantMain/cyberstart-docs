@@ -3,6 +3,8 @@ Agent 707, we're trying to distract the gang whilst we try and gain access to th
 
 We want to spam the booking form for their restaurants, the problem is the form is protected by a Captcha. You may be able to bypass the Captcha by tricking the form into using a different Captcha value; and if you can do so at least 5 times, that'll prove a successful bypass for the bot we'll create!
 
+**Tip:** How are strings sometimes generated?
+
 ## Steps
 1. View the page’s source code
     - It shows that the value for *seedID* determines the captcha

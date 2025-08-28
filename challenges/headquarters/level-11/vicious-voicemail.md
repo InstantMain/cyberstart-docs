@@ -3,6 +3,8 @@ Agent 707, once again we need you to step up and show us your skills. This time 
 
 Before he went he was able to get access to the private voicemail system the Bulldogs were using. He got access by logging in as one of the gang members, Terry Turner, and we can see there are a set of voicemails on there for him. Agent V didn't have chance to analyze them before he went, can you do it for him? We think there might be hidden messages in the audio files.
 
+**Tip:** Find the hidden message to get the flag.
+
 ## Files
 [voicemails](/assets/files/voicemails)
 

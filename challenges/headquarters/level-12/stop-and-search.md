@@ -7,6 +7,8 @@ Here's a javascript payload, see if you can get it to work in the search field.
 
 Once this flaw has been fixed we are confident that the trojan robot the gang have been planning to send will have no effect on the banks system therefor rendering it useless! Good luck!
 
+**Tip:** Submit the payload correctly to get the flag.
+
 ## Steps
 1. Encode *\<script>alert('Search this!!!')</script>* to hexadecimal
 

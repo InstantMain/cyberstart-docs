@@ -1,6 +1,8 @@
 # Corrupted Corruption
 Agent 707, there's another quick task I need your help with. One of the agents intercepted a zip file from The Chiquitoos, but it looks like it's corrupted. I know you've helped us with this kind of thing before. Can you take a look and see if you can get it working?
 
+**Tip:** Open the file to get the flag.
+
 ## Files
 [masterkey-x86.zip](/assets/files/masterkey-x86.zip)
 

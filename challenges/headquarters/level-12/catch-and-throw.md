@@ -3,6 +3,8 @@ Agent 707, we've just stumbled on something we think could be very important. We
 
 We've received an anonymous tip from one disgruntled gang member about two web pages, the second of which he claims, has a list of access codes the gang would need to get in. If we could see those codes we'd know whether the risk was real, but here's the thing - on the first web page there's just a number which keeps changing. On the second page, nothing, except for an error message. We think to open up access to the second page you need to pass the value from the first page to the cookie on the second page. Give it a try.
 
+**Tip:** Change the value of the cookie on the second page correctly to show the codes. The last code is the flag.
+
 ## Steps
 1. Write Python code
     - The flag is the code at the bottom of the codelist

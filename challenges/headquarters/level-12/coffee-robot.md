@@ -3,6 +3,8 @@ An inside agent has told us Charlie Hampton, one of the gang's smartest engineer
 
 The problem is, we don't know which server he's keeping the plans on. All we do know is that Charlie owns a legit business, a coffee shop in East London, which he uses as a cover for his gang activities. It's a long shot but we do know they run a small server in the basement of the shop which controls their on-demand coffee ordering service. Go to the coffee ordering site, see if it's vulnerable. If it is see if you can find anything useful on the server.
 
+**Tip:** Find the drawings file to get the flag.
+
 ## Steps
 1. Bypass the text filter system in the *Your name* text box by entering *$(ls)* and click *Order drink*
     - Ignore *coffee-machine-service-info.txt* (does not contain the flag)

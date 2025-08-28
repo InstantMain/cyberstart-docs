@@ -3,6 +3,8 @@ Agents have intercepted some vital information we'd like you to look at. We've s
 
 Can you finish it off so that it runs each line in the dictionary against the encrypted text to decrypt it? Hurry agent, the Spetzners might know we are on to them and could transfer their documents elsewhere!
 
+**Tip:** Decrypt the text, that's the flag.
+
 ## Files
 [dict.py](/assets/files/dict.py)    
 [words.txt](/assets/files/words.txt)

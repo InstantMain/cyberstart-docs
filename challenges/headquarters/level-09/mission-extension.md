@@ -8,6 +8,8 @@ We know there's a Jpeg in there somewhere with an image of the particular EMP th
 - IP Address: *[given ip]*
 - Port: *[given port]*
 
+**Tip:** Find the Jpeg, it contains a serial number (SN), that's the flag!
+
 ## Steps
 1. Log into the SSH account
     - Use *ssh* command

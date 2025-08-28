@@ -3,6 +3,8 @@ Agent 707, we've been doing some research on Barry Brigley, one of the Bulldogs 
 
 Take a look at the site and the images. You can download the images, they're in a common image format, see if you can recover them.
 
+**Tip:** The flag is in one of the images.
+
 ## Files
 [artwork.11f7c21f](assets/files/artwork.11f7c21f)
 

@@ -3,6 +3,8 @@ Agent 707, this one is urgent. Our team have just intercepted some chatter betwe
 
 Here's what we know about it so far: each character in the text was converted into a decimal number (according to the ASCII chart), then each number had the same number subtracted from it (a number between 1 and 10). Then each number was written to a new line of the text.
 
+**Tip:** The flag is the name of the nightclub.
+
 ## Steps
 1. Write python code
     - Copy the numbers listed on the page and format them into an array

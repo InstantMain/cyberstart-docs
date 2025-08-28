@@ -8,6 +8,8 @@ Log into this SSH server using the details below. We've received word that the g
 - IP Address: *[given ip]*
 - Port: *[given port]*
 
+**Tip:** Find the code word to get the flag.
+
 ## Steps
 1. Launch the virtual box and open terminal
 1. Connect to the assigned SSH account

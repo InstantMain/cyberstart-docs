@@ -3,6 +3,8 @@ Could this be the icing on the cake? Remember Filebox, the cloud storage site Bu
 
 As we know it's vulnerable we want to look at other ways to find the gang's files. We think the files can be exposed with directory traversal and there are some two levels up from the account page. See if you can get access to them.
 
+**Tip:** Find the file to get the flag.
+
 ## Steps
 1. Add */..%2F..%2F..%2F..%2F..%2F..%2F* in the URL link after */files*
     - *%2F* is the hexadecimal form of */*

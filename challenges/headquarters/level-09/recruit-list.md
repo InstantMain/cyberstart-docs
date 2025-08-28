@@ -3,6 +3,8 @@ Agent 707, the Spetzners are trying to recruit someone on the inside of the hidd
 
 We've found the login page for it, see if you can get access.
 
+**Tip:** Bypass the login form to get the flag.
+
 ## Steps
 1. View the page source code *(Ctrl + U)*
 1. Find the comment in the source code talking about details on a certain page *(page.phps)*

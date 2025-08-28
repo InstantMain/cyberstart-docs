@@ -3,6 +3,8 @@ Agent 707, a possible breakthrough that we need your help with. We've found a se
 
 Fortunately we've been able to recover some source code for it. Take a look at the source code and see if you can get access to the server.
 
+**Tip:** Get access to the server to get the flag.
+
 ## Files
 [evalserver_fragment.py](/assets/files/evalserver_fragment.py)
 

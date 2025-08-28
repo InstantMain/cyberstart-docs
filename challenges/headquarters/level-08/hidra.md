@@ -3,6 +3,8 @@ Well, this is interesting. We've finally been able to get access to a messaging 
 
 For example, FTP login details to the gang's main server! One small issue: they mention the address and the username but not the password. See if you can find a way in.
 
+**Tip:** Find the password for the user account. The flag is in a file which you get from connecting to the FTP server via a PASV connection. If you are inside the VM, you can use ftp -p.
+
 ## Files
 [words.txt](/assets/files/words.txt)
 

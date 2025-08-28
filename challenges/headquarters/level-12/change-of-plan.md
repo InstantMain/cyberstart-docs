@@ -3,6 +3,8 @@ Our Agent on the inside has just received an email from one of the senior gang m
 
 We really need to confirm the exact date they want to send it, but at the moment we can't because the email came in the form of some encrypted text. We've had an agent working on it, and he's created a dictionary file and an unfinished Python script to try and crack it. He seems to have hit a dead end, maybe you could pick it up and finish breaking the encryption.
 
+**Tip:** Crack the encryption to get the flag.
+
 ## Files
 [code.py](/assets/files/code.py)    
 [words.txt](assets/files/words.txt)

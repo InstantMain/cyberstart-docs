@@ -3,6 +3,8 @@ Agent 707, we have more details about the Bulldogs trojan horse robot. The gang 
 
 We think the LCD display might be used as a way to display secret messages and access codes to someone in the bank. We've managed to get hold of the program, written in Assembly code, that outputs the messages to the display. But it seems to have bad instruction and fails to run. See if you can patch it.
 
+**Tip:** Edit the code and run it, the robots confirmation message will show the flag.
+
 ## Original Code
 ```nasm
 section .data

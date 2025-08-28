@@ -3,6 +3,8 @@ Yesterday our uncover agent let us know about an encryption tool one of the gang
 
 See if you can use it to get access to the server and look for any files that might be worth investigating. We think the gang member who built it, Percy Pinkly, is involved in the gangs efforts to circumvent the banks main security alarms, so he might have been storing files on the server related to blueprints or the security system.
 
+**Tip:** There's a file on the server containing the flag.
+
 ## Steps
 1. Enter in *cryptonite -h* and click *Enter* to show its arguments
     - *cryptonite -n* can be used to ignore the command and for command injection

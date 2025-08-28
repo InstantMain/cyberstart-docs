@@ -5,6 +5,8 @@ They plan to send it to one of the senior management as a gift from a friend (wh
 
 To help narrow our investigative efforts, we need to know which gang member is behind this new idea of theirs. Agents have managed to recover a log file and a mail queue of pending outgoing email spam messages. See if you can spot the spammer in the log file and let us know - we can then stop them sending the email.
 
+**Tip:** The flag is the username of the gang member sending the spam.
+
 ## Files
 [log.txt](/assets/files/log.txt)
 

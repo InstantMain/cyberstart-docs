@@ -1,6 +1,8 @@
 # Bypass
 Agent 707, we've found a TCP service the gang are using, but we can't seem to get access. It's services.cyberprotection.agency on port 13880 See if you can bypass the login screen and begin exploring.
 
+**Tip:** Good LUKS
+
 ## Steps
 1. Netcat the server
     - Use *nc* command on *services.cyberprotection.agency* with port *13880*

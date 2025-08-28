@@ -3,6 +3,8 @@ Agent 707, it's time we went on the offensive! We know the Bulldogs are putting 
 
 Here's one example we want your help with specifically. Remember the encryption tool Cryptonite that one of the Bulldogs created from the previous level? It uses server side commands to handle the encryption and we want you to use some kind of command injection to send the command for a fork bomb to DoS the website and take down the tool.
 
+**Tip:** Crash the website to get the flag!
+
 ## Steps
 1. Enter in *;cryptonite -h* and click *Enter* to show its arguments
     - *;cryptonite -n* can be used to ignore the command and for command injection

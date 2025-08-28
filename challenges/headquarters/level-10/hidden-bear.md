@@ -3,6 +3,8 @@ It seems the Spetzners will find any way possible to keep their secrets from us.
 
 Here's a good example: you may remember the Bear Watch site from the previous level? Well, we've been looking at one of the images from that site for days and can't seem to crack what it's hiding. Take a look and see if you can find it.
 
+**Tip:** Manipulate the image in some way to get the flag.
+
 ## Files
 [bears.6ed65fc2](/assets/files/bears.6ed65fc2.jpg)
 

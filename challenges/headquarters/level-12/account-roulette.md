@@ -3,6 +3,8 @@ Agent 707, remember the social media website from the previous level where Bulld
 
 We have logged in as a random test user that we created and have gone to an old message Darren posted. See if you can use that access to log in to other accounts, then check the response to see who you are logged in as, aiming to find access Darren's account (his username is thedazman).
 
+**Tip:** Understand what identifies the users logged in state to start.
+
 ## Steps
 1. Write Python code
 

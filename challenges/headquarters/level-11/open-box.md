@@ -3,6 +3,8 @@ It looks like Billy Johnson, one of the gang's enforcers, is using a cloud stora
 
 Our team have created an account with the service and logged in. See if you can find a way to trick the site into giving you a list of accounts.
 
+**Tip:** Billy Johnson's account name is the flag.
+
 ## Steps
 1. Go to *Cookies* in *Inspect*
     - Inspect > Application > Cookies > https://play.cyberstart.com
