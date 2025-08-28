@@ -1,0 +1,10 @@
+# Exposure
+One of the Bulldogs, Lara Mindsay, is a surveillance expert and we think she's been using advanced drones to take high resolution photos of the bank from different angles.
+
+She also runs a small legit side project, a photo site which allows anyone to create an account and upload photos. We think she's using it herself to store the bank surveillance photos and so we want to see if it's vulnerable. We've been penetration testing the site but have not had any success so far, then this morning one of the other agents sent me a tip - CVE-2012-2399. Take a look and see if you can use it to see if the site is vulnerable.
+
+## Steps
+1. In the URL link of the page, add *?buttonText=%3Ca%20href=%27javascript:alert(document.cookie)%27%3EClick%20me%3C/a%3E* after *upload.swf*
+    - This is the *CVE-2012-2399* cross-site scripting vulnerability
+
+![CVE-2012-2399 vulnerability](/assets/screenshots/hq-11-Exposure.png)
