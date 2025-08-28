@@ -22,4 +22,5 @@ We've found the login page for it, see if you can get access.
 5. Manipulate the website link again and change *page.phps* to *login?user=%3Croot%3E*
 
 ![manipulated website link](/assets/screenshots/hq-09-RecruitList/step-4.png)
+
 ![web server access](/assets/screenshots/hq-09-RecruitList/step-5.png)
