@@ -7,4 +7,16 @@ We've received an anonymous tip from one disgruntled gang member about two web p
 1. Write Python code
     - The flag is the code at the bottom of the codelist
 
+```python
+import requests, re
+
+SPINNER_URL = "https://bulldoghax.com/secret/spinner"
+CODES_URL = "https://bulldoghax.com/secret/codes"
+
+html = requests.get(SPINNER_URL).text
+spinner_number = re.search("(\d+)", html).group()
+codes_html = requests.get(CODES_URL, cookies = {"timelock": spinner_number}).text
+print(codes_html)
+```
+
 ![python to get most recent code](/assets/screenshots/hq-12-CatchandThrow.png)

