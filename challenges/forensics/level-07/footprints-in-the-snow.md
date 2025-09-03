@@ -9,7 +9,10 @@ It looks like the bad guys left a trail behind. For example, they left a suspici
 ## Steps
 1. Download the *.pdf* file and change its extension to *.txt*
 1. Open the file as a text file
-1. Find the ASCII numbers in the fonts section (*102 108 97 103 58 32 104 49 100 49 110 103 95 97 109 48 110 103 95 116 51 104 95 102 48 110 116 53*)
-1. Decode the ASCII numbers
+1. Find the ASCII characters in the fonts section (*102 108 97 103 58 32 104 49 100 49 110 103 95 97 109 48 110 103 95 116 51 104 95 102 48 110 116 53*)
 
-![ASCII decode](/assets/screenshots/fn-07-FootprintsintheSnow.png)
+![ASCII characters](/assets/screenshots/fn-07-FootprintsintheSnow/step-1.png)
+
+4. Decode the ASCII characters
+
+![ASCII decode](/assets/screenshots/fn-07-FootprintsintheSnow/step-2.png)

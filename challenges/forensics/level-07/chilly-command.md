@@ -9,8 +9,11 @@ We know the hackers gained access to a particular Windows box, but we're not sur
 ## Steps
 1. Download and open the *.xml* file
 1. Search for the word *RunMRU*
-1. Decode the Base64-encoded command (*JwBUAGgAMwBfAEIAMwBzAFQAXwBGAGwANABnAHMAXwBSAF8ARgAwAHIAMwBuADUAMQBjACcA*)
 
-![base64 decode](/assets/screenshots/fn-07-ChillyCommand.png)
+![encoded command](/assets/screenshots/fn-07-ChillyCommand/step-1.png)
+
+3. Decode the Base64-encoded command (*JwBUAGgAMwBfAEIAMwBzAFQAXwBGAGwANABnAHMAXwBSAF8ARgAwAHIAMwBuADUAMQBjACcA*)
+
+![base64 decode](/assets/screenshots/fn-07-ChillyCommand/step-2.png)
 
 4. Remove the � characters
