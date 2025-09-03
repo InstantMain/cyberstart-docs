@@ -1,4 +1,4 @@
-<h1 align="center"> <img align="center" src="assets/CyberStartLogo.png" width="100">My CyberStart Documentation</h1>
+<h1 align="center"> <img align="center" src="assets/CyberStartLogo.png" width="100"> My CyberStart Documentation</h1>
 
 ## About
 A GitHub port of my CyberStart writeups from high school.
