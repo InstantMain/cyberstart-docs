@@ -9,15 +9,18 @@
 [Hidra (*C12*)](/challenges/headquarters/level-08/hidra.md)
 
 ## Level 9 - *The Spezners*: FINDING A WAY IN
+[Cold File (*C02*)](/challenges/headquarters/level-09/cold-file.md)   
 [Mission Extension (*C06*)](/challenges/headquarters/level-09/mission-extension.md)   
 [Bogdan’s Data (*C08*)](/challenges/headquarters/level-09/bogdans-data.md)    
+[Tayga Bears (*C11*)](/challenges/headquarters/level-09/tayga-bears.md)   
 [Recruit List (*C12*)](/challenges/headquarters/level-09/recruit-list.md)
 
 ## Level 10 - *The Spetzners*: CRYPTO POISON
 [Hidden Bear (*C04*)](/challenges/headquarters/level-10/hidden-bear.md)   
 [Matryoshka (*C05*)](/challenges/headquarters/level-10/matryoshka.md)     
 [Kapa's Hidden Secrets (*C07*)](/challenges/headquarters/level-10/kapas-hidden-secrets.md)    
-[Snakes in Motion (*C10*)](/challenges/headquarters/level-10/snakes-in-motion.md)
+[Snakes in Motion (*C10*)](/challenges/headquarters/level-10/snakes-in-motion.md)   
+[Perilous Pencils (*C11*)](/challenges/headquarters/level-10/perilous-pencils.md)
 
 ## Level 11 - *The Bulldogs*: BREAKING THE BANK
 [Port of Call (*C01*)](/challenges/headquarters/level-11/port-of-call.md)     

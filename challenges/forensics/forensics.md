@@ -18,6 +18,7 @@
 
 ## Level 6 - *Easter Island*
 [Missing Image (*C02*)](/challenges/forensics/level-06/missing-image.md)     
+[Brazilian Blather (*C03*)](/challenges/forensics/level-06/brazilian-blather.md)     
 [Urgent Escalation (*C05*)](/challenges/forensics/level-06/urgent-escalation.md)
 
 ## Level 7 - *Antartica*
